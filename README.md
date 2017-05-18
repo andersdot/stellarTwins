@@ -16,4 +16,4 @@ Copyright 2017 the authors. **All rights reserved**.
 
 ## projects
 - Transferring spectroscopic labels to stars with no spectroscopy, making use of spectro-photometric similarities.
-- De-noising geometric parallaxes using spectro-photometry and data-driven models of the color-magnitude diagram of stars.
+
